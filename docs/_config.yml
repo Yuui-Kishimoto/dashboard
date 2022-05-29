@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+minimal_mistakes_skin    : "default" 
+# Site Settings
+locale                   : "ja"
+title                    : Sample
