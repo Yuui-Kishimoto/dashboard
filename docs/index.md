@@ -9,7 +9,6 @@
     <!-- 月次 -->
     <div style="font-size: 40px; font-weight: 800;"> 月次 </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-
         <!-- チーム別 棒グラフ -->
         <div id="teamMonthlyGraphs" style="width: 45%;">
             <script src="https://www.gstatic.com/charts/loader.js"></script>
